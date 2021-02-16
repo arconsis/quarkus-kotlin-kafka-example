@@ -3,7 +3,7 @@
 This is the example code shown in the talk "Supersonic Subatomic Messaging" by [Andreas Eberle](https://github.com/andreas-eberle) 
 as presented for Stuttgart's and Karlsruhe's Kotlin User Groups.
 
-You can find a recording of the [talk on YouTube](TODO: Link to YouTube video).
+You can find a recording of the [talk on YouTube](https://youtu.be/5MI0X70nZy4).
 
 ## Topic
 
